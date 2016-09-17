@@ -110,4 +110,4 @@ Add a few sentences to the file named `lab2.txt` for each of:
 
 ### Submitting Your Work
 
-Submit your work by committing and pushing the changes to the GitHub repository created for you for this lab. You can work with a partner. **It is sufficient if only one of your pushes your work to GitHub but `lab2.txt` must contain your name and your partner's name.
+Submit your work by committing and pushing the changes to the GitHub repository created for you for this lab. You can work with a partner. **It is sufficient if only one of your pushes your work to GitHub but `lab2.txt` must contain your name and your partner's name.**
