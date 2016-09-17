@@ -1,26 +1,18 @@
 CPEN 221 Lab 2: Debugging (Some Poetry)
 ====
 
-An outcome of CPEN 221 is to help you develop software that is:
-* **Safe from bugs:** Correct today and correct in the unknown future.
-* **Easy to understand:** Communicating clearly with future programmers, including future you.
-* **Ready for change:** Designed to accommodate change without rewriting.
-
 ### Debugging 
 
 The purpose of this lab activity is **debugging**. You will gain additional experience reading provided code, understanding it, reviewing it, and debugging some problems associated with it.
 
-### Due Date and Time
-
-You must submit your work by 5:00 p.m. on September 28. Submission instructions can be found at the end of this `README`.
-
-### Reading code
+### Reading Code
 
 For this lab exercise, you need to focus on only two Java files: `Main.java` and `UBCPoet.java`.
 
 > Look at poems for “song”.
 
 There are a variety of ways to determine the quality of source code and to identify “code smells.” Some of these are:
+
 * Don’t repeat yourself.
 * Use comments where needed.
 * Fail fast.
@@ -116,4 +108,6 @@ Add a few sentences to the file named `lab2.txt` for each of:
 * the out-of-bounds bug;
 * the illegal argument bug.
 
-Submit your work by committing and pushing the changes to this text file (to a branch called `lab2` in your assigned GitHub repository). You can work with a partner but each of you must submit `lab2.txt`. (Yes, both of you can submit the same text file.) You do not need to submit other changes — i.e., changes to source code.
+###
+
+Submit your work by committing and pushing the changes to the GitHub repository created for you for this lab. You can work with a partner. It is sufficient if only one of your pushes your work to GitHub but `lab2.txt` must contain your name, your partner's name and UBC student numbers.
